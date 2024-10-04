@@ -4,10 +4,10 @@
 La API de Productos permite gestionar un inventario de productos, incluyendo funcionalidades para listar, agregar, actualizar y eliminar productos.
 
 ## Tecnologías Utilizadas
-- **Node.js**: 
-- **Express**: 
-- **Sequelize**: 
-- **MySQL**: 
+- **Node.js**
+- **Express**
+- **Sequelize**
+- **MySQL**
 
 ## Importación de la Base de Datos
 Crear una base de datos llamada `productManagement`.
@@ -90,8 +90,7 @@ Crear una base de datos llamada `productManagement`.
 
 1. **Clonar el repositorio**:
     ```bash
-    
-    
+    https://github.com/HuachaDev/nodejs-crud-api.git
     ```
 
 2. **Instalar las dependencias**:
